@@ -1,0 +1,20 @@
+{
+  font-family: "Times New Roman";
+}
+
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  line-height: 200px;
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  text-transform: lowercase;
+  font-weight: 100;
+  margin: 0 auto 40px;
+}
+.red {
+  background-color: #FF0000;
+}
